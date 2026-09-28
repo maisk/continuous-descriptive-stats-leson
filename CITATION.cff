@@ -8,6 +8,8 @@ authors:
     family-names: Maistrelis
     orcid: "https://orcid.org/0000-0002-0851-2866"
     website: "https://maistrelis.com"
+url: "https://maisk.github.io/continuous-descriptive-stats-leson/"
+repository-code: "https://github.com/maisk/continuous-descriptive-stats-leson"
 abstract: >-
   Εκπαιδευτικό υλικό στα ελληνικά για τον υπολογισμό περιγραφικών μέτρων
   (μέσος όρος, μέση απόλυτη απόκλιση, διακύμανση, διάμεσος) σε συνεχή δεδομένα

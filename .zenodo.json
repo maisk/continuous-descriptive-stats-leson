@@ -28,5 +28,17 @@
     "R",
     "Quarto"
   ],
-  "notes": "Το κείμενο και οι εικόνες διατίθενται με άδεια CC BY 4.0. Ο κώδικας (scripts R, Makefile και τα κομμάτια κώδικα μέσα στα κείμενα) διατίθεται με άδεια MIT (δες το αρχείο LICENSE). Το υλικό φτιάχτηκε σε συνεργασία με το Claude της Anthropic (https://www.anthropic.com/claude). Συγγραφέας: Kostas Maistrelis (https://maistrelis.com)."
+  "related_identifiers": [
+    {
+      "identifier": "https://maisk.github.io/continuous-descriptive-stats-leson/",
+      "relation": "isVariantFormOf",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/maisk/continuous-descriptive-stats-leson",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes":"Το κείμενο και οι εικόνες διατίθενται με άδεια CC BY 4.0. Ο κώδικας (scripts R, Makefile και τα κομμάτια κώδικα μέσα στα κείμενα) διατίθεται με άδεια MIT (δες το αρχείο LICENSE). Το υλικό φτιάχτηκε σε συνεργασία με το Claude της Anthropic (https://www.anthropic.com/claude). Συγγραφέας: Kostas Maistrelis (https://maistrelis.com)."
 }
